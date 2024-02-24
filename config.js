@@ -10,7 +10,7 @@ global.antitags = true;
 
 //auto functioner
 global.autoTyping = false;                //auto tying by default off.
-global.autoRecord = true;                //auto recording by default off.
+global.autoRecord = false;                //auto recording by default off.
 global.groupevent = false;                //This is the new variable for controlling group event handling.
 global.statusseen = false;                 //This is the new variable for controlling status seen.
 global.autoreadgc = false;
@@ -21,13 +21,13 @@ global.prefa = ["."];                                    //Default prefix here. 
 
 
 //
-global.Owner = ["+94772108460", "+94772108460"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.OwnerNumber = ["+94772108460", "+94772108460"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.ownertag = ["+94772108460"];
-global.OwnerName = "KUSHAN";
-global.BotName = "DARK SHAM";
-global.packname = "🦋 DARK SHAN 🦋";                             //Do not change.
-global.author = "KUSHAN";                               //Do not change.
+global.Owner = ["+94776214953", "+94776214953"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.OwnerNumber = ["+94776214953", "+94776214953"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.ownertag = ["+94776214953"];
+global.OwnerName = "༺༒𝚃𝙴𝙳𝙳𝚈_𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻༒༻";
+global.BotName = "༺༒𝚃𝙴𝙳𝙳𝚈_𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻༒༻";
+global.packname = "💥༺༒𝚃𝙴𝙳𝙳𝚈_𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻༒༻💥";                             //Do not change.
+global.author = "TEDDY_OFFICAL";                               //Do not change.
 global.BotSourceCode = "https://github.com/Kai00"; //Do not change.
 global.SupportGroupLink = "https://chat.whatsapp.com/GhRGdwfaMVDCoeAdzILfl";
 
@@ -41,7 +41,7 @@ global.openAiAPI = "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";
 
 
 //
-global.location = "mathara, Sri Lankan";
+global.location = "kurunagala, Sri Lankan";
 global.reactmoji = "💞";
 global.themeemoji = "😂";
 global.vidmenu = { url: 'https://tenor.com/en-CA/view/anonymous-hacker-smooth-gif-10171911193797826570%9D%90%95-12-14' };
@@ -80,7 +80,7 @@ global.ntilink = []
 //
 global.mess = {
   jobdone: 'Here you go...',
-  useradmin: 'Sorry, only *Group Admins* can use this command *Baka*!',
+  useradmin: 'Sorry, only *Group Admins* can use this command *Baka*!😒',
   botadmin: 'Sorry, i cant execute this command without being an *Admin* of this group.',
   botowner: 'Only my *Owner* can use this command, Baka!',
   grouponly: 'This command is only made for *Groups*, Baka!',
@@ -89,8 +89,8 @@ global.mess = {
   waiting: 'Just Wait...',
   nolink: 'Please provide me *link*, Baka!',
   error: 'An error occurd!',
-  banned: 'You are *Banned* fron using commands!',
-  bangc: 'This Group is *Banned* from using Commands!',
+  banned: 'You are *Banned* fron using commands!💥',
+  bangc: 'This Group is *Banned* from using Commands!💥',
   nonsfw: 'Dont be a pervert Baka! This is not a NSFW enabled group!'
 
 }
